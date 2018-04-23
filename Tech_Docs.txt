@@ -1,0 +1,6 @@
+###SPRING BOOT CONFIGURATION ON eCLIPSE#################
+1.plugin STS TOOLS in eclipse
+2.select FILE-> NEW->Spring Boot-> Sprint Starter Project
+3.give all required groupid and all and then select the dependancies required for you
+4. for change tomcat port edit application.properties file or yml file as below
+server.port:8888
